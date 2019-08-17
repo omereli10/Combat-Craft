@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/Asset/Combat Craft Splash.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/Asset/Cross.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/Asset/GameOver.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/Asset/Heart.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/Asset/MoonBox.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/Asset/Skybox.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/Asset/Square Frame.jpg</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/BlocksTextures/TexturesAtlas.png</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/Fonts/loadingFont.spritefont</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/Fonts/myFont.spritefont</File>
+    <File>C:/Users/אלון (חדש)/source/repos/Mono Games/Project/Combat Craft/Combat Craft/Content/Fonts/startGameFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Fonts/statusFont.spritefont</File>
+    <File>Fonts/splashFont.spritefont</File>
+  </DestFiles>
+</SourceFileCollection>

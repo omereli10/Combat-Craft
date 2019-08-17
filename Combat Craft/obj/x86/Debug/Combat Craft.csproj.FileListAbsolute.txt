@@ -1,0 +1,126 @@
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csprojAssemblyReference.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csproj.CoreCompileInputs.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Combat Craft.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Combat Craft.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csproj.CopyComplete
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Fonts\myFont.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Fonts\myFont.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Combat Craft.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Combat Craft.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csprojAssemblyReference.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csproj.CoreCompileInputs.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csproj.CopyComplete
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Kit\Cross.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Kit\Cross.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csprojAssemblyReference.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csproj.CoreCompileInputs.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Kit\Cross.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Fonts\myFont.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\BlocksTextures\End_Stone.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\BlocksTextures\Grass.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\BlocksTextures\Snow.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\BlocksTextures\Stone.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Combat Craft.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Combat Craft.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups 2\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csproj.CopyComplete
+C:\Users\אלון (חדש)\source\repos\Mono Games\Projects\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\BlocksTextures\TexturesAtlas.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Kit\Cross.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Fonts\myFont.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\BlocksTextures\TexturesAtlas.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Combat Craft.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Combat Craft.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csproj.CoreCompileInputs.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csproj.CopyComplete
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.exe
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.pdb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Combat Craft.exe.config
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\BlocksTextures\TexturesAtlas.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Backups\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Combat Craft.exe.config
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Fonts\statusFont.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Fonts\splashFont.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Kit\Combat Craft Splash.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Fonts\loadingFont.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Kit\Square Frame.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\obj\x86\Debug\Combat Craft.csprojAssemblyReference.cache
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Kit\Skybox.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Kit\Skybox2.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Kit\Skybox3.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Kit\MySkybox.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Asset\Combat Craft Splash.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Asset\Cross.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Asset\Skybox.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Asset\Square Frame.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Asset\GB.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Asset\MoonBox.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Asset\GameOver.xnb
+C:\Users\אלון (חדש)\source\repos\Mono Games\Project\Combat Craft\Combat Craft\bin\Windows\x86\Debug\Content\Asset\Heart.xnb
